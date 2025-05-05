@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Product Demand Forecasting Using Machine Learning
 
 > A complete end-to-end machine learning pipeline to forecast e-commerce product demand using XGBoost, served via FastAPI and visualized using Streamlit.
@@ -117,3 +118,7 @@ Would you like me to help:
 - Deploy the app online?
 
 Let me know what’s next!
+=======
+# product-demand-forecasting
+
+>>>>>>> edaa14fce00f6371df479147a0f42a5646e1920c
